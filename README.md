@@ -1,1 +1,3 @@
 # odin-recepies
+I have learned the basics of git how to create a new repo and the repository into the local machine and use basic git command like git add, commit, status, log etc.
+For HTML I have learned how to write the basic structure which include the head and body. Also while working in HTML how to form paragraph , use tag to make word italics and bold. I also, learned how to add links and images to the website. 
